@@ -9,14 +9,8 @@
 ```cs
 using System;
 using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.ComponentModel;
 using System.Drawing;
 using System.Linq;
-using System.Net;
-using System.Runtime.CompilerServices;
-using System.Windows.Forms;
-using System.Xml.Linq;
 
 namespace SmartHome
 {
@@ -547,11 +541,8 @@ namespace SmartHome
 ```cs
 using System;
 using System.Collections.Generic;
-using System.Drawing;
 using System.IO;
-using System.Reflection;
 using System.Runtime.Serialization.Formatters.Binary;
-using SmartHome;
 
 namespace SmartHome
 {
