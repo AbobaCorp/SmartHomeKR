@@ -622,7 +622,6 @@ namespace SmartHome
                 foreach (var j in i.Devices)
                 {
                     j.Update();
-                    //DeviceChanged?.Invoke(i, j);
                 }
             }
         }
