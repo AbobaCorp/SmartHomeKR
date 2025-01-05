@@ -841,7 +841,7 @@ namespace SmartHome
     }
 }
 ```
-# Примеры работы приложения
+## Примеры работы приложения
 ![](/examples/2.1.png)
 ![](/examples/2.2.png)
 ![](/examples/2.3.png)
