@@ -1,3 +1,5 @@
+<img src=/img/smart-home.png width=128>
+
 # SmartHomeKR
 Исходный код приложения "Умный дом" для курсовой работы
 
