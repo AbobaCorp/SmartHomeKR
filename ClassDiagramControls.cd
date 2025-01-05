@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ControlSmartHome.ControlDevice" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgEAAEAiAAAACAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>ControlDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControlSmartHome.ControlLighting" Collapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAgFABEgiACAACkgAAAQAKAAAACAAAACA=</HashCode>
+      <FileName>ControlLighting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControlSmartHome.ControlThermostat" Collapsed="true">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACEAgFABEgiAAAACAAAAAIAKAAAAABAAACA=</HashCode>
+      <FileName>ControlThermostat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControlSmartHome.ControlWarmFloor" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABCAAAACEAgFABEgjAAAACAAAAAIQKAAAAARAAACA=</HashCode>
+      <FileName>ControlWarmFloor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

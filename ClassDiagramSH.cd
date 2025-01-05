@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SmartHome.DeviceId">
+    <Position X="16.25" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAoAAEgABAAACAAAAAAIAAAAAAAAgAAiA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.Device">
+    <Position X="13.75" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABQAAAAEAAAAgAAAAABAAAQAAAAAAAAAQAAAAAAAgAA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.Lighting">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAgAAAAIA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.Thermostat">
+    <Position X="8.5" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAQIA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.Camera">
+    <Position X="12" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAgAEAAAAAAgAAAAAA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.SecuritySystem">
+    <Position X="26.25" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.Sensor">
+    <Position X="24.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAQAAAAAAAA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.TemperatureSensor">
+    <Position X="22.5" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.PressureSensor">
+    <Position X="24.25" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.HumiditySensor">
+    <Position X="26" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.WarmFloor">
+    <Position X="7.75" Y="8.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.Hub">
+    <Position X="28" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="SmartHome.Hub.DeviceHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SmartHome.Hub.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="SmartHome.Hub.RoomHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SmartHome.Hub.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAEQAAABAACgQQKACAACAQQCAJiCAgggAAQAEhAEhQA=</HashCode>
+      <FileName>SmartHome.Hub.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.Room">
+    <Position X="26.25" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAEAAAAABAQAQAAAAAgAACAAAACAAAA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.RobotVacuumCleaner">
+    <Position X="13.75" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="SmartHome.RobotVacuumCleaner.Tasks" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SmartHome.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAABAAAAACAAAAAAAACAAEAQAAAAAAAA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.SmartPlug">
+    <Position X="15.5" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.IRRemoteControl">
+    <Position X="17.25" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAEAAAAAAAAAEAAAAABACAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.AirConditioner">
+    <Position X="9.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHome.Curtain">
+    <Position X="19" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAIAAAAAIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>SmartHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

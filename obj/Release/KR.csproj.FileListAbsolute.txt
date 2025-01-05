@@ -1,0 +1,11 @@
+C:\Users\anani\Desktop\Public_folder\ТОГУ\ООП\Курсовая\KR\bin\Release\SmartHome.exe.config
+C:\Users\anani\Desktop\Public_folder\ТОГУ\ООП\Курсовая\KR\bin\Release\SmartHome.exe
+C:\Users\anani\Desktop\Public_folder\ТОГУ\ООП\Курсовая\KR\bin\Release\SmartHome.pdb
+C:\Users\anani\Desktop\Public_folder\ТОГУ\ООП\Курсовая\KR\obj\Release\KR.csproj.AssemblyReference.cache
+C:\Users\anani\Desktop\Public_folder\ТОГУ\ООП\Курсовая\KR\obj\Release\FormSmartHome.FormAddDevice.resources
+C:\Users\anani\Desktop\Public_folder\ТОГУ\ООП\Курсовая\KR\obj\Release\FormSmartHome.FormHub.resources
+C:\Users\anani\Desktop\Public_folder\ТОГУ\ООП\Курсовая\KR\obj\Release\KR.Properties.Resources.resources
+C:\Users\anani\Desktop\Public_folder\ТОГУ\ООП\Курсовая\KR\obj\Release\KR.csproj.GenerateResource.cache
+C:\Users\anani\Desktop\Public_folder\ТОГУ\ООП\Курсовая\KR\obj\Release\KR.csproj.CoreCompileInputs.cache
+C:\Users\anani\Desktop\Public_folder\ТОГУ\ООП\Курсовая\KR\obj\Release\SmartHome.exe
+C:\Users\anani\Desktop\Public_folder\ТОГУ\ООП\Курсовая\KR\obj\Release\SmartHome.pdb
